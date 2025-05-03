@@ -1,4 +1,5 @@
 # Scholarship Finder System 🎓
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 A web-based application to help students find scholarships easily by automating data scraping, deadline tracking, and email reminders.
 
